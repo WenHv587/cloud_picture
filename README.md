@@ -1,1 +1,2 @@
-Note Pictures
+# image host
+Store images from notes
